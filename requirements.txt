@@ -1,0 +1,6 @@
+Django
+Pandas
+whitenoise[brotli]
+gunicorn 
+uvicorn
+dj-database-url  # Necesario para gestionar la configuración de la base de datos en Render

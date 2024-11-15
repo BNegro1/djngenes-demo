@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+
+__pycache__
+db.sqlite3
+
+# enviroments
+my_venv/
+
+# Negar los archivos del  entorno (Para el push)
+.env
+
+# Negar archivos Python
+__pycache__
+*.pyc
+*.pyo
